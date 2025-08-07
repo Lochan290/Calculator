@@ -8,7 +8,6 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - Responsive UI design
 - Real-time input handling
 - Clean and minimal user interface
-- Keyboard support (optional – add if implemented)
 
 ## 📸 Preview
 
