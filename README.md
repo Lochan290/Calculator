@@ -12,7 +12,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 📸 Preview
 
-<img width="838" height="1001" alt="Screenshot 2025-08-07 19-45-24" src="https://github.com/user-attachments/assets/803028d7-9cb2-409d-8d04-1234170fbdd0" />
+<img width="638" height="801" alt="Screenshot 2025-08-07 19-45-24" src="https://github.com/user-attachments/assets/803028d7-9cb2-409d-8d04-1234170fbdd0" />
 
 ## 🚀 Live Demo
 
